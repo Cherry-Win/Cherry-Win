@@ -60,6 +60,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 <img src="https://logowik.com/content/uploads/images/laragon7302.jpg" height="40" alt="laragon" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" height="40" alt="dbeaver" >
 </div>
 
 ###
