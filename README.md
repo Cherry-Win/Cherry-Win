@@ -62,7 +62,7 @@
   <img src="https://logowik.com/content/uploads/images/laragon7302.jpg" height="40" alt="laragon" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" height="40" alt="dbeaver" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" height="40" alt="wordpress" />
-  <img src="https://en.wikipedia.org/wiki/XAMPP#/media/File:XAMPP_logo.svg" height="40" alt="xampp" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/78/XAMPP_logo.svg" height="40" alt="xampp" />
   <img src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" height="40" alt="postman" />
 </div>
 
