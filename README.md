@@ -71,7 +71,6 @@
   <img src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo.png" height="40" alt="postman" />
    <img width="12" />
   <img src="https://m.media-amazon.com/images/I/11EHDN++anL.png" height="40" alt="anydesk logo" />
-  <img width="12" />
   <img src="https://cloudzy.com/wp-content/uploads/vnc-300x300-1.png" height="30" alt="vnc logo" />
 </div>
 
