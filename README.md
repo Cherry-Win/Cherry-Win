@@ -17,7 +17,6 @@
 ###
 
 <div align="left">
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
@@ -61,11 +60,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+   <img width="12" />
   <img src="https://logowik.com/content/uploads/images/laragon7302.jpg" height="40" alt="laragon" />
+   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" height="40" alt="dbeaver" />
+   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" height="40" alt="wordpress" />
+   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/en/7/78/XAMPP_logo.svg" height="40" alt="xampp" />
+   <img width="12" />
   <img src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" height="40" alt="postman" />
+   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/AnyDesk-logo.svg" height="20" alt="anydesk logo" />
 </div>
 
