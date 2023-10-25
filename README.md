@@ -69,7 +69,7 @@
    <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/en/7/78/XAMPP_logo.svg" height="40" alt="xampp" />
    <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" height="40" alt="postman" />
+  <img src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo.png" height="40" alt="postman" />
    <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/AnyDesk-logo.svg" height="20" alt="anydesk logo" />
 </div>
